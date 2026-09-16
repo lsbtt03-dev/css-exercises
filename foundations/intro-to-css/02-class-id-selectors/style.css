@@ -1,3 +1,14 @@
 .class {
     background-color: #FF9EAA;
+    font-family: verdana, sans-serif;
+}
+#number-2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#number-4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
 }
